@@ -9,7 +9,7 @@ https://bloodbankwebapp-myrv.onrender.com/
 ## Dummy Credentials
 - **User**: Organization
 - **Email**: ksp@gmail.com
-- **Password**: 333
+- **Password**: 123
 
 ## Features
 - **JWT Token-based Authentication**: Implemented secure authentication using JSON Web Tokens (JWT) to enhance the security of user authentication processes.
