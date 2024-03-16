@@ -1,6 +1,6 @@
 # Blood Bank Web App
 
-This project is a comprehensive backend application for a Blood Bank web platform, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It aims to provide a seamless experience for managing blood donations, donors, hospitals, and organizations.
+This project is a comprehensive backend application for a Blood Bank web platform, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It aims to provide a seamless experience for managing blood donations for donors, hospitals, and organizations.
 -**Note**: Project focuses on backend so ignore the color combination and UI
 
 ## Live Link
